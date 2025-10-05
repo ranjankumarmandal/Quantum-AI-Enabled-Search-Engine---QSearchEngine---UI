@@ -1,6 +1,4 @@
-# Quantum AI Enabled Search Engine
-
-# Custom Search Engine – UI Prototype
+# Quantum AI Enabled Search Engine (UI Component)
 
 This project is the **frontend (UI) prototype** for the our Quantum AI Enabled Search Engine Project.
 
@@ -11,8 +9,9 @@ The research is to deliver a seamless user experience that complements the backe
 ## About API Consumption
 
 Frontend (Step-1 prototype) consuming the REST APIs (on localhost:8080):
-GET /api/search?q=keyword&page=0&size=10
-POST /api/crawl?seed=<url>&maxPages=<n>
+
+- GET /api/search?q=keyword&page=0&size=10
+- POST /api/crawl?seed=<url>&maxPages=<n>
 
 ## Test Evidences
 
@@ -24,8 +23,7 @@ POST /api/crawl?seed=<url>&maxPages=<n>
 
 ### ▶️ Run the App
 
-npm install
-npm run dev
+npm install, npm run dev
 
 ## You have some query?
 
