@@ -1,8 +1,12 @@
 # Quantum AI Enabled Search Engine
 
-This project is the **backend prototype** for a custom search engine.  
-It provides REST APIs for crawling web pages, indexing their content using **Apache Lucene**, and retrieving ranked search results.  
-The goal is to build a foundation similar to a classical search engine, ready for future integration with **LLM** and **Quantum-AI-based** modules.
+# Custom Search Engine – UI Prototype
+
+This project is the **frontend (UI) prototype** for the our Quantum AI Enabled Search Engine Project.
+
+It provides an intuitive web interface for **querying, visualizing, and interacting** with the search results served by the backend APIs like other popular classical search engine (Eg. Google, Microsoft Bing, etc.) with the power of Quantum AI.
+
+The research is to deliver a seamless user experience that complements the backend’s capabilities, with a modern and responsive interface ready for future integration and to build a foundation similar to a classical search engine, ready for future integration with **LLM** and **Quantum-AI-based** modules.
 
 ## About API Consumption
 
