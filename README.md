@@ -22,6 +22,11 @@ POST /api/crawl?seed=<url>&maxPages=<n>
 ![alt text](quantum-ai-search-engine-pic11.PNG)
 ![alt text](quantum-ai-search-engine-pic2.PNG)
 
+### ▶️ Run the App
+
+npm install
+npm run dev
+
 ## You have some query?
 
 If you have some query, feel free to connect with me here -- [Ranjan Kumar Mandal](https://www.linkedin.com/in/ranjan-kumar-m-818367158/)
